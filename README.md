@@ -5,7 +5,7 @@
 <h4 align = "center"> $^2$ School of Electronic Engineering, Xidian University, China</h4>
 <h4 align = "center"> $^3$ School of Artificial Intelligence, Xidian University, China</h4>
                      
-                       
+[Yongzhe Yuan](https://yyzmars.github.io/)           
 This is the official implementation of our CVPR2024 paper [Inlier Confidence Calibration for Point Cloud Registration].
 
 
