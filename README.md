@@ -2,8 +2,8 @@
 
 **[Yongzhe Yuan](https://yyzmars.github.io/)<sup>1</sup>, [Yue Wu](https://web.xidian.edu.cn/wuyue/)<sup>1</sup>, Xiaolong Fan<sup>2</sup>, Maoguo Gong<sup>2</sup>, Qiguang Miao<sup>1</sup>, and Wenping Ma<sup>3</sup>** <br>
 **<sup>1</sup> School of Computer Science and Technology, Xidian University, China** <br>
-**<sup>1</sup> School of Electronic Engineering, Xidian University, China** <br>
-**<sup>1</sup> School of Artificial Intelligence, Xidian University, China** <br>
+**<sup>2</sup> School of Electronic Engineering, Xidian University, China** <br>
+**<sup>3</sup> School of Artificial Intelligence, Xidian University, China** <br>
 
 This is the official implementation of our CVPR2024 paper **Inlier Confidence Calibration for Point Cloud Registration**.
 
