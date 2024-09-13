@@ -1,0 +1,10 @@
+# ninja log v5
+0	3652	1666614878	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/group_points.o	57bbb655918c5d6f
+0	3698	1666614878	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/sampling.o	55f0210dda4b0116
+0	3726	1666614878	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/interpolate.o	79ec46312532b2b6
+0	3908	1666614878	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/ball_query.o	12d97bae6c3d9cbc
+1	8139	1666614882	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/interpolate_gpu.o	3c374cdb2bbd350b
+0	8167	1666614882	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/ball_query_gpu.o	82a0f4f88563093d
+0	8181	1666614882	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/group_points_gpu.o	445d8cfb3c3ebbf1
+1	8704	1666614883	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/sampling_gpu.o	4bbc57d41531f330
+1	12155	1666614886	/home/yyz/PycharmProjects/PointCloudOverlap/pointnet2/build/temp.linux-x86_64-cpython-37/src/pointnet2_api.o	41a4dc79517c17c7
